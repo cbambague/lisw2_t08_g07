@@ -26,7 +26,7 @@ java -cp target/classes co.unicauca.taller08.ApplicationMain menu   # menú inte
 ## Estructura
 
 ```
-lisw2_t08_g0X/
+lisw2_t08_g07/
 └── src/
     ├── main/java/co/unicauca/taller08/
     │   ├── ApplicationMain.java      demo de los 10 requerimientos / menú
