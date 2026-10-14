@@ -2,7 +2,7 @@
 
 **Asignatura:** Laboratorio de Ingeniería de Software II – Programa de Ingeniería de Sistemas, Universidad del Cauca (2-2026)
 **Integrantes:** Carlos Bambague
-**Repositorio GitHub:** https://github.com/cbambague/PatronesDeDisenio_DeComportamiento_y_Estructurales.git
+**Repositorio GitHub:** https://github.com/cbambague/lisw2_t08_g07
 
 ## 1. Resumen del proyecto de clase
 
